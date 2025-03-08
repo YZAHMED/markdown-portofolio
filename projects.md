@@ -6,8 +6,7 @@ Here are some of the cool projects I’ve worked on.
 
 - **Description:** A simple portfolio website built using Markdown and deployed via GitHub Pages.
 - **Tech Stack:** Markdown, GitHub Pages
-- **Live Demo:** [Visit Here](https://yzahmed.github.io/markdown-portfolio/)
-- **GitHub Repo:** [Source Code](https://github.com/yzahmed/markdown-portfolio)
+- **GitHub Repo:** [Source Code](https://github.com/YZAHMED/markdown-portofolio)
 
 ---
 
